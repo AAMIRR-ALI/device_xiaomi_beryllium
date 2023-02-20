@@ -25,7 +25,7 @@ TARGET_EXCLUDES_AUDIOFX := true
 TARGET_BUILD_APERTURE_CAMERA := true
 
 # Maintainer Stuff
-RICE_MAINTAINER := Shikhar_&_Finnaib
+RICE_MAINTAINER := Shikhar|Finnaib
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := lineage_beryllium
